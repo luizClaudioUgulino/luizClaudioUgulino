@@ -1,6 +1,27 @@
-## olá eu sou a Luiz Claudio, Mas pode me chamar de Mortandela.
-## Sou estudante e programador iniciante, foco muito em PCI E ARDUINO (CIRCUITO EM GERIAS), além de estudos de aplicativos e programas de sistemas.
-## Se caso gostaria de uma ajuda ou começar um projeto, me chama pelo email !!
+Nome: Luiz Claudio Ugulino Rodrigues da cunha
+Idade: 22 anos
+
+Descrição:
+Sou um programador versátil e apaixonado por tecnologia. Tenho conhecimento em diversas linguagens e ferramentas, o que me permite desenvolver soluções abrangentes e diversificadas.
+
+Linguagens de Programação:
+
+Java
+C#
+Arduino
+C
+Ferramentas:
+
+Proteus (simulação de circuitos eletrônicos)
+Experiência em Desenvolvimento:
+Tenho experiência no desenvolvimento de programas de jogos, explorando minha criatividade e habilidades de programação para criar experiências interativas e envolventes.
+
+Formação Acadêmica:
+Atualmente, estou cursando a faculdade de Tecnologia em Sistemas de Informação (TSi), onde tenho a oportunidade de expandir meus conhecimentos e aprimorar minhas habilidades de programação.
+
+Sou um profissional dedicado e em constante busca por conhecimento, sempre atualizado com as tendências e avanços da área de programação. Tenho habilidades de resolução de problemas, trabalho em equipe e sou motivado por desafios.
+
+Estou pronto para enfrentar novos projetos e contribuir com soluções inovadoras.
 <div align="center">
   <a href="https://github.com/luizClaudioUgulino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizClaudioUgulino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
