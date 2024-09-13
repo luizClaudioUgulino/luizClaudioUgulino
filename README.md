@@ -4,15 +4,6 @@ Idade: 22 anos
 Descrição:
 Sou um programador versátil e apaixonado por tecnologia. Tenho conhecimento em diversas linguagens e ferramentas, o que me permite desenvolver soluções abrangentes e diversificadas.
 
-Linguagens de Programação:
-
-Java
-C#
-Arduino
-C
-Ferramentas:
-
-Proteus (simulação de circuitos eletrônicos)
 Experiência em Desenvolvimento:
 Tenho experiência no desenvolvimento de programas de jogos, explorando minha criatividade e habilidades de programação para criar experiências interativas e envolventes.
 
@@ -31,15 +22,6 @@ Age: 22 years old
 Description:
 I am a versatile programmer and passionate about technology. I have knowledge of several languages ​​and tools, which allows me to develop comprehensive and diverse solutions.
 
-Programming Languages:
-
-Java
-W#
-Arduino
-W
-Tools:
-
-Proteus (simulation of electronic circuits)
 Development Experience:
 I have experience developing game programs, exploring my creativity and programming skills to create interactive and engaging experiences.
 
