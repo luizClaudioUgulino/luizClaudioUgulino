@@ -22,6 +22,36 @@ Atualmente, estou cursando a faculdade de Tecnologia em Sistemas de Informação
 Sou um profissional dedicado e em constante busca por conhecimento, sempre atualizado com as tendências e avanços da área de programação. Tenho habilidades de resolução de problemas, trabalho em equipe e sou motivado por desafios.
 
 Estou pronto para enfrentar novos projetos e contribuir com soluções inovadoras.
+
+---------------------------------------------------------------------------------------------
+
+Name: Luiz Cláudio Ugulino Rodrigues da Cunha
+Age: 22 years old
+
+Description:
+I am a versatile programmer and passionate about technology. I have knowledge of several languages ​​and tools, which allows me to develop comprehensive and diverse solutions.
+
+Programming Languages:
+
+Java
+W#
+Arduino
+W
+Tools:
+
+Proteus (simulation of electronic circuits)
+Development Experience:
+I have experience developing game programs, exploring my creativity and programming skills to create interactive and engaging experiences.
+
+Academic Background:
+I am currently studying Information Systems Technology (TSi), where I have the opportunity to expand my knowledge and improve my programming skills.
+
+I am a dedicated professional in constant search for knowledge, always up to date with trends and advances in the programming area. I have problem-solving skills, teamwork and I am motivated by challenges.
+
+I'm ready to take on new projects and contribute with innovative solutions.
+
+
+
 <div align="center">
   <a href="https://github.com/luizClaudioUgulino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizClaudioUgulino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
